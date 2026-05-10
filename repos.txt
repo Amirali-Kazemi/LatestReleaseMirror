@@ -7,4 +7,3 @@ Kianmhz/GooseRelayVPN|android-arm64|
 Kianmhz/GooseRelayVPN|client, windows-amd64|
 Kianmhz/GooseRelayVPN|server, linux|
 therealaleph/MasterHttpRelayVPN-RUST|android-arm64|
-server
