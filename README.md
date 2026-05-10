@@ -157,28 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="kianmhz--gooserelayvpn"></div>
+<div id="hidden-node--gooserelayvpn-androidclient"></div>
 
-### Kianmhz--GooseRelayVPN
+### Hidden-Node--GooseRelayVPN-AndroidClient
 
-🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.6.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.6.0)
+🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.3</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-client-v1.6.0-android-arm64.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-android-arm64.tar.gz) |
-| `GooseRelayVPN-client-v1.6.0-darwin-amd64.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-darwin-amd64.tar.gz) |
-| `GooseRelayVPN-client-v1.6.0-darwin-arm64.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-darwin-arm64.tar.gz) |
-| `GooseRelayVPN-client-v1.6.0-linux-amd64.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-linux-amd64.tar.gz) |
-| `GooseRelayVPN-client-v1.6.0-linux-arm64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-linux-arm64.tar.gz) |
-| `GooseRelayVPN-client-v1.6.0-linux-armv7.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-linux-armv7.tar.gz) |
-| `GooseRelayVPN-client-v1.6.0-windows-amd64.zip` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-amd64.zip) |
-| `GooseRelayVPN-client-v1.6.0-windows-arm64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-arm64.zip) |
-| `GooseRelayVPN-server-v1.6.0-darwin-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-darwin-amd64.tar.gz) |
-| `GooseRelayVPN-server-v1.6.0-darwin-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-darwin-arm64.tar.gz) |
-| `GooseRelayVPN-server-v1.6.0-linux-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-linux-amd64.tar.gz) |
-| `GooseRelayVPN-server-v1.6.0-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-linux-arm64.tar.gz) |
-| `GooseRelayVPN-server-v1.6.0-linux-armv7.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-linux-armv7.tar.gz) |
-| `GooseRelayVPN-server-v1.6.0-windows-amd64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-windows-amd64.zip) |
-| `GooseRelayVPN-server-v1.6.0-windows-arm64.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-windows-arm64.zip) |
-| `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/SHA256SUMS.txt) |
+| `GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk` | 11.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk) |
+| `GooseRelayVPN-HN-1.0.3-armeabi-v7a-release.apk` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-armeabi-v7a-release.apk) |
+| `GooseRelayVPN-HN-1.0.3-release.aar` | 35.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-release.aar) |
+| `GooseRelayVPN-HN-1.0.3-universal-release.apk` | 37.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-universal-release.apk) |
+| `GooseRelayVPN-HN-1.0.3-x86-release.apk` | 11.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-x86-release.apk) |
+| `GooseRelayVPN-HN-1.0.3-x86_64-release.apk` | 11.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-x86_64-release.apk) |
 <!-- RELEASES_END -->
