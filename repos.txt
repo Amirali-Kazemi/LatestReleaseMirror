@@ -5,6 +5,8 @@
 
 #Kianmhz/GooseRelayVPN
 
-Hidden-Node/GooseRelayVPN-AndroidClient
+#Hidden-Node/GooseRelayVPN-AndroidClient
 
 # therealaleph/MasterHttpRelayVPN-RUST|android-arm64|
+
+ircfspace/teleMirror|win|
