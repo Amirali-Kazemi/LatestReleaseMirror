@@ -157,18 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="hidden-node--gooserelayvpn-androidclient"></div>
+<div id="ircfspace--telemirror"></div>
 
-### Hidden-Node--GooseRelayVPN-AndroidClient
+### ircfspace--teleMirror
 
-🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.3</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.3)
+🔗 [source](https://github.com/ircfspace/teleMirror) – [<code><small>v3.2.0</small></code>](https://github.com/ircfspace/teleMirror/releases/tag/v3.2.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk` | 11.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk) |
-| `GooseRelayVPN-HN-1.0.3-armeabi-v7a-release.apk` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-armeabi-v7a-release.apk) |
-| `GooseRelayVPN-HN-1.0.3-release.aar` | 35.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-release.aar) |
-| `GooseRelayVPN-HN-1.0.3-universal-release.apk` | 37.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-universal-release.apk) |
-| `GooseRelayVPN-HN-1.0.3-x86-release.apk` | 11.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-x86-release.apk) |
-| `GooseRelayVPN-HN-1.0.3-x86_64-release.apk` | 11.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-x86_64-release.apk) |
+| `tele-mirror-win-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-arm64.zip.001) |
+| `tele-mirror-win-arm64.zip (part 2 of 2)` | 44.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-arm64.zip.002) |
+| `tele-mirror-win-ia32.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-ia32.zip.001) |
+| `tele-mirror-win-ia32.zip (part 2 of 2)` | 27.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-ia32.zip.002) |
+| `tele-mirror-win-x64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-x64.zip.001) |
+| `tele-mirror-win-x64.zip (part 2 of 2)` | 51.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/Amirali-Kazemi/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-x64.zip.002) |
 <!-- RELEASES_END -->
